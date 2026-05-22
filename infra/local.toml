@@ -1,0 +1,7 @@
+APP_ENV="local"
+MACHINE_ID = 1
+TRRE_API_BASE_URL = "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1"
+TRANSACTIONS_FILE_PATH = "/data/transactions.json"
+CACHE_DIR = "/tmp/txconverter_cache_local"
+LOG_LEVEL = "DEBUG"
+DEBUG = true
